@@ -1,7 +1,7 @@
 {
-  "name": "jinhuizhuangshi",
+  "name": "jinhuayishi",
   "version": "1.0.0",
-  "description": "金慧装饰 - 专业家装服务网站",
+  "description": "金华宜饰 - 专业家装服务网站",
   "main": "index.html",
   "scripts": {
     "dev": "python -m http.server 3000",
@@ -9,6 +9,6 @@
     "start": "python -m http.server 8000"
   },
   "keywords": ["装修", "家装", "装饰", "室内设计"],
-  "author": "金慧装饰",
+  "author": "金华宜饰",
   "license": "MIT"
 }
