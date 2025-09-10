@@ -1,0 +1,14 @@
+{
+  "name": "jinhuizhuangshi",
+  "version": "1.0.0",
+  "description": "金慧装饰 - 专业家装服务网站",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site build complete'",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": ["装修", "家装", "装饰", "室内设计"],
+  "author": "金慧装饰",
+  "license": "MIT"
+}
